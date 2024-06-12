@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit6620
 - 👀 I’m interested in web developement and cloud
 - 🌱 I’m currently pursuing MCA 
-- 💞️ I’m looking to collaborate on mini projects for web
+- 💞️ I’m looking to collaborate projects for web-dev
 - 📫 How to reach me work.mohitvarade6620@gmail.com
 
 
